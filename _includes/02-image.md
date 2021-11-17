@@ -1,1 +1,1 @@
-[INDIA](https://github.com/omkarsak)
+[india](https://github.com/omkarsak)
